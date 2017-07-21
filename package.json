@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "AntiTrumpTwitterBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stratcat944/twitter-bot.git"
+  },
+  "author": "steve@stevedomenico.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stratcat944/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/stratcat944/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
